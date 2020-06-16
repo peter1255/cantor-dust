@@ -14,7 +14,7 @@ PennDraw.java (found in the repo.)
 ```
 java Cantor dimension iterations
 ```
-where dimensions is either 1D, 2D, or 3D and iterations is an integer greater than zero. E.g.:  
+where `dimension` is either 1D, 2D, or 3D and `iterations` is an integer greater than zero. E.g.:  
 ```
 java Cantor 3D 6
 ```

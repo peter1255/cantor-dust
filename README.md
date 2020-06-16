@@ -8,7 +8,7 @@ The program uses self-similar transformations to recursively remove each middle 
 Cantor dust has many topologically interesting properties, including zero measure.    
 
 ### Dependencies
-PennDraw.java
+PennDraw.java (found in the repo.)
 
 ### Execution
 ```
